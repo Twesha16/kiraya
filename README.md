@@ -4,7 +4,8 @@
 
 > Built in a 3-hour hackathon.
 
-<!-- DEMO VIDEO: on github.com, click "Edit README", drag your .mp4 onto this line, and GitHub embeds it. -->
+##DEMO VIDEO
+[![Watch the Kiraya demo](https://img.youtube.com/vi/GHUg5hiTlnQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=GHUg5hiTlnQ)
 
 <!-- SCREENSHOTS: add docs/renter.png, docs/agent.png, docs/found.png and uncomment:
 | Talk in Hindi | The agent at work | Found & negotiated |
