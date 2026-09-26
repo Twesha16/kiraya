@@ -4,7 +4,7 @@
 
 > Built in a 3-hour hackathon.
 
-##DEMO VIDEO
+## DEMO VIDEO
 [![Watch the Kiraya demo](https://img.youtube.com/vi/GHUg5hiTlnQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=GHUg5hiTlnQ)
 
 <!-- SCREENSHOTS: add docs/renter.png, docs/agent.png, docs/found.png and uncomment:
