@@ -99,6 +99,6 @@ Open http://localhost:8000. The voice agents live on Sarvam's platform, so they 
 ## Team
 
 - **Twesha Saini:** backend, search agent, simulator, voice-call relay, web frontend, and the agent integration
-- **[Teammate name]:** the Sarvam voice agents (Hindi seeker, Telugu landlord)
+- **Lekhna Sruthi:** the Sarvam voice agents (Hindi seeker, Telugu landlord)
 
 Built with [Sarvam AI](https://www.sarvam.ai) (Sarvam-105B, Voice Agents), [Tavily](https://tavily.com), and FastAPI.
