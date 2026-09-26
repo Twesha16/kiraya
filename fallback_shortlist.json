@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "pg_name": "Vaibhav PG",
+    "area": "Ameerpet",
+    "listed_rent": 7000,
+    "food": "both",
+    "source_url": "https://www.tenanto.in/coliving/vaibhavpg/pg-in-ameerpet-hyderabad/1217"
+  },
+  {
+    "id": 2,
+    "pg_name": "Stanza Living Belgrade House",
+    "area": "Ameerpet",
+    "listed_rent": 9799,
+    "food": "unknown",
+    "source_url": "https://instadwell.com/blog/top-4-co-living-spaces-in-ameerpet-and-pg-vs-flat-reality-check-2026"
+  },
+  {
+    "id": 3,
+    "pg_name": "Sai Krishna Executive Men's Hostel",
+    "area": "Ameerpet",
+    "listed_rent": 8000,
+    "food": "unknown",
+    "source_url": "https://www.magicbricks.com/pg-single-room-in-ameerpet-hyderabad-pppfr"
+  },
+  {
+    "id": 4,
+    "pg_name": "Anupama Neha's PG & Hostel",
+    "area": "Ameerpet",
+    "listed_rent": 6500,
+    "food": "unknown",
+    "source_url": "https://www.gopgo.in/hyderabad/ameerpet/pgo-properties"
+  }
+]
